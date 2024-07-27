@@ -84,7 +84,10 @@ Make sure to replace /path/to/src with the actual path to your src directory.
 
 ## Output(Exercise-2)
 
-![image](https://github.com/user-attachments/assets/7c753761-82eb-4726-add8-81572857e0c3)
-![image](https://github.com/user-attachments/assets/4e98474b-5ade-4932-ac5b-3d99a380cf82)
-![image](https://github.com/user-attachments/assets/5fcdb266-eb32-4802-b2e3-be2dd7cb4cc0)
+![image](https://github.com/user-attachments/assets/3256b955-5fd1-45e9-9607-a2d981d1499b)
+![image](https://github.com/user-attachments/assets/8d5dba06-a5aa-44bd-8e3d-0043406370ed)
+![image](https://github.com/user-attachments/assets/4957ffc1-a852-4635-b1cf-1e0c0017dc83)
+
+
+
 
